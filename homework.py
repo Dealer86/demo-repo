@@ -5,3 +5,4 @@ print("o modificare linia 4")
 for i in range(10):
   print("#",end="")
 print("asta sa fie pe github")
+print("Lo Ve")
